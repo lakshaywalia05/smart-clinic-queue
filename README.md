@@ -5,7 +5,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success) ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_App_(.exe)-blue?style=for-the-badge&logo=windows)]([https://github.com/YOUR_USERNAME/smart-clinic-queue/releases/latest](https://github.com/lakshaywalia05/smart-clinic-queue/archive/refs/tags/v1.0.zip))
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_App_(.exe)-blue?style=for-the-badge&logo=windows)](https://github.com/lakshaywalia05/smart-clinic-queue/releases/latest)
 
 ## 📖 Overview
 This is a **Queue Management System (QMS)** designed for clinics and hospitals. It allows patients to book appointments via their own mobile devices by scanning a QR code, eliminating the need for physical queues. 
